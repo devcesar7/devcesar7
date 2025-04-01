@@ -1,4 +1,4 @@
-# Olá! Eu sou Cesar Augusto 👋
+⁸# Olá! Eu sou Cesar Augusto 👋
 
 *"Passionate about technology and programming, always eager to learn and grow."*
 
@@ -36,5 +36,3 @@ Sou estudante de *Desenvolvimento de Sistemas* no *Senac*. Tenho um grande inter
 🌎 *LinkedIn:* [Cesar Augusto](https://www.linkedin.com/in/cesar-augusto-lucena-dos-santos-029b44298/)  
 
 📌 Sempre aberto para trocar conhecimento e colaborar em projetos! 🚀
-
-faça esse, so que para mim. faço superior na uninassau tbm, sou focado mais em python na area de inteligencia artificial, mas tenho conhhecimento em todas as areas que ja estao ai 
