@@ -1,4 +1,4 @@
-⁸# Olá! Eu sou Cesar Augusto 👋
+# Olá! Eu sou Cesar Augusto 👋
 
 *"Passionate about technology and programming, always eager to learn and grow."*
 
